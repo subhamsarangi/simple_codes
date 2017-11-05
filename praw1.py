@@ -4,7 +4,7 @@ import sys
 reddit = praw.Reddit(client_id = 'p_OIb2EBrWir6w', client_secret='ZNBPZpMHJ0jjZZjUqpfF3_yRrWU', username = '_pythonreddit_', password = 'cookies', user_agent = 'praw1')
 print(reddit.user.me())
 
-subreddit = reddit.subreddit('todayilearned')
+subreddit = reddit.subreddit('EatCheapAndHealthy')
 
 print(subreddit.display_name)  # Output: redditdev
 print(subreddit.title)         # Output: reddit Development
@@ -12,12 +12,13 @@ print(subreddit.title)         # Output: reddit Development
 # subreddit.subscribe()
 
 def get_submission():
-    hot_python = subreddit.hot(limit=3)
+    hot_python = subreddit.hot(limit=7)
     for submission in hot_python:
         if not submission.stickied:
-            print('\nTitle: {},\n ups: {}, down: {}, Have we visited: {}'.format(submission.title, submission.ups, submission.downs, submission.visited))
+            print('\nTitle: {},\n ups: {}, downs: {}, Have we visited: {}'.format(submission.title.encode('utf8').decode(sys.stdout.encoding), submission.ups, submission.downs, submission.visited))
             print(submission.author.name,submission.author.link_karma)
             print('URL: ',submission.url)
+            print("# of comments: ", len(submission.comments))
 #            get_comments(submission)
 
 def get_comments(sm):
