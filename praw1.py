@@ -4,7 +4,7 @@ import sys
 reddit = praw.Reddit(client_id = 'p_OIb2EBrWir6w', client_secret='ZNBPZpMHJ0jjZZjUqpfF3_yRrWU', username = '_pythonreddit_', password = 'cookies', user_agent = 'praw1')
 print(reddit.user.me())
 
-subreddit = reddit.subreddit('EatCheapAndHealthy')
+subreddit = reddit.subreddit('bitcoin')
 
 print(subreddit.display_name)  # Output: redditdev
 print(subreddit.title)         # Output: reddit Development
