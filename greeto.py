@@ -1,5 +1,5 @@
 def greet(name):
-  print("Hello {}, welcome to Free Code Camp!".format(name))
+  print("Hello {}, welcome to the world!".format(name))
 
 if __name__ == "__main__":
   from sys import argv

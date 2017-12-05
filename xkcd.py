@@ -1,6 +1,5 @@
 # Xkcd.py - Downloads all XKCD comic image files.
 import requests, os, bs4
-import os
 from bs4 import BeautifulSoup
 url = 'http://xkcd.com/2'
 os.makedirs('xkcd', exist_ok=True) # store comics in ./xkcd
