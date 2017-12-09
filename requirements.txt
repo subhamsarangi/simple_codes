@@ -1,0 +1,11 @@
+beautifulsoup4==4.6.0
+Cython==0.25.2
+fbchat==1.0.17
+html5lib==0.9999999
+numpy==1.13.3
+openpyxl==2.4.8
+praw==5.2.0
+PyInstaller==3.2.1
+PyPDF2==1.26.0
+requests==2.18.1
+urllib3==1.21.1
