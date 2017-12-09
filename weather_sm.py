@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import csv
-from weather.the_world import the_world
+from weather.the_world_sm import the_world
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1'}
 
@@ -25,7 +25,7 @@ for place in the_world:
 	data.append((location, temp,time_local))
 	print (location,' : ',temp,' - ',time_local)
 
-csvfile='weather-'+time_file+'.csv'
+csvfile='weather-sm-'+time_file+'.csv'
 with open(csvfile, 'w') as csv_file:
 	writer = csv.writer(csv_file)
 	for loc, temp, time_local in data:

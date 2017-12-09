@@ -1,0 +1,232 @@
+Delhi,19,Saturday 7:00 PM
+"Kolkata, West Bengal",21,Saturday 7:00 PM
+"Jhargram, West Bengal",21,Saturday 7:00 PM
+"Mumbai, Maharashtra",26,Saturday 7:00 PM
+"Pune, Maharashtra",24,Saturday 7:00 PM
+"Panaji, Goa",27,Saturday 7:00 PM
+"Ahmedabad, Gujarat",26,Saturday 7:00 PM
+"Jaipur, Rajasthan",18,Saturday 7:00 PM
+Chandigarh,16,Saturday 7:00 PM
+"Ludhiana, Punjab",16,Saturday 7:00 PM
+"Patiala, Punjab",16,Saturday 7:00 PM
+"Manali, Himachal Pradesh",5,Saturday 7:00 PM
+Srinagar,10,Saturday 7:00 PM
+"Noida, Uttar Pradesh",18,Saturday 7:00 PM
+"Kanpur, Uttar Pradesh",18,Saturday 7:00 PM
+"Bhopal, Madhya Pradesh",21,Saturday 7:00 PM
+"Patna, Bihar",20,Saturday 7:00 PM
+"Jamshedpur, Jharkhand",21,Saturday 7:00 PM
+"Ranchi, Jharkhand",18,Saturday 7:00 PM
+"Dhanbad, Jharkhand",21,Saturday 7:00 PM
+"Cuttack, Odisha",22,Saturday 7:00 PM
+"Bhubaneswar, Odisha",22,Saturday 7:00 PM
+"Bengaluru, Karnataka",22,Saturday 7:00 PM
+"Chennai, Tamil Nadu",27,Saturday 7:00 PM
+"Hyderabad, Telangana",24,Saturday 7:00 PM
+"Vijayawada, Andhra Pradesh",26,Saturday 7:00 PM
+"Tiruchirappalli, Tamil Nadu",28,Saturday 7:00 PM
+"Madurai, Tamil Nadu",28,Saturday 7:00 PM
+"Thanjavur, Tamil Nadu",27,Saturday 7:00 PM
+"Ooty, Tamil Nadu",12,Saturday 7:00 PM
+"Kanyakumari, Tamil Nadu",28,Saturday 7:00 PM
+Puducherry,27,Saturday 7:00 PM
+"Kochi, Kerala",28,Saturday 7:00 PM
+"Thiruvananthapuram, Kerala",28,Saturday 7:00 PM
+"Guwahati, Assam",22,Saturday 7:00 PM
+"Shillong, Meghalaya",16,Saturday 7:00 PM
+"Gangtok, Sikkim",13,Saturday 7:00 PM
+"Imphal, Manipur",17,Saturday 7:00 PM
+"Kohima, Nagaland",14,Saturday 7:00 PM
+"Gangtok, Sikkim",12,Saturday 7:00 PM
+"Tokyo, Japan",5,Saturday 11:00 PM
+"Osaka, Osaka Prefecture, Japan",7,Saturday 11:00 PM
+"Okinawa Prefecture, Japan",18,Saturday 11:00 PM
+"Kyoto, Kyoto Prefecture, Japan",3,Saturday 11:00 PM
+"Seoul, South Korea",-1,Saturday 11:00 PM
+"Ulaanbaatar, Mongolia",-17,Saturday 10:00 PM
+"Pyongyang, North Korea",-1,Saturday 10:00 PM
+"Beijing, China",4,Saturday 10:00 PM
+"Shanghai, China",6,Saturday 10:00 PM
+"Shenzhen, Guangdong, China",15,Saturday 10:00 PM
+"Guangzhou, Guangdong, China",14,Saturday 10:00 PM
+"Qingdao, Shandong, China",6,Saturday 10:00 PM
+"Tianjin, China",2,Saturday 10:00 PM
+Hong Kong,15,Saturday 10:00 PM
+"Taipei, Taiwan",16,Saturday 10:00 PM
+"Manila, Metro Manila, Philippines",27,Saturday 10:00 PM
+"Ho Chi Minh City, Ho Chi Minh, Vietnam",26,Saturday 9:00 PM
+"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",26,Saturday 10:00 PM
+"Jakarta, Indonesia",27,Saturday 9:00 PM
+Singapore,27,Saturday 10:00 PM
+"Bangkok, Thailand",27,Saturday 9:00 PM
+"Nonthaburi, Mueang Nonthaburi District, Nonthaburi, Thailand",27,Saturday 9:00 PM
+"Yangon, Myanmar (Burma)",27,Saturday 8:00 PM
+"Naypyitaw, Myanmar (Burma)",24,Saturday 8:00 PM
+"Dhaka, Bangladesh",22,Saturday 8:00 PM
+"Chittagong, Bangladesh",24,Saturday 8:00 PM
+"Colombo, Sri Lanka",27,Saturday 7:00 PM
+"Kandy, Sri Lanka",24,Saturday 7:00 PM
+"Kathmandu, Nepal",15,Saturday 8:00 PM
+"Thimphu, Bhutan",9,Saturday 8:00 PM
+"Karachi, Pakistan",23,Saturday 7:00 PM
+"Islamabad, Pakistan",14,Saturday 7:00 PM
+"Tehran, Tehran Province, Iran",8,Saturday 5:00 PM
+"Kabul, Afghanistan",7,Saturday 6:00 PM
+"Tashkent, Uzbekistan",4,Saturday 7:00 PM
+"Astana, Kazakhstan",-3,Saturday 8:00 PM
+Abu Dhabi - United Arab Emirates,23,Saturday 6:00 PM
+Dubai - United Arab Emirates,23,Saturday 6:00 PM
+Riyadh Saudi Arabia,16,Saturday 5:00 PM
+"Baghdad, Iraq",13,Saturday 5:00 PM
+"Damascus, Syria",12,Saturday 4:00 PM
+"Jerusalem, Israel",14,Saturday 4:00 PM
+"Ankara, Turkey",7,Saturday 5:00 PM
+"Istanbul, Turkey",15,Saturday 5:00 PM
+"Gaziantep, Turkey",7,Saturday 5:00 PM
+"Berlin, Germany",2,Saturday 3:00 PM
+"Hamburg, Germany",3,Saturday 3:00 PM
+"Munich, Germany",-1,Saturday 3:00 PM
+"Cologne, Germany",2,Saturday 3:00 PM
+"Frankfurt, Germany",2,Saturday 3:00 PM
+"Stuttgart, Germany",1,Saturday 3:00 PM
+"Düsseldorf, Germany",2,Saturday 3:00 PM
+"Bremen, Germany",2,Saturday 3:00 PM
+"Dresden, Germany",1,Saturday 3:00 PM
+"Vienna, Austria",2,Saturday 3:00 PM
+"Salzburg, Austria",-1,Saturday 3:00 PM
+"Innsbruck, Austria",0,Saturday 3:00 PM
+"Klagenfurt, Austria",0,Saturday 3:00 PM
+"Zürich, Switzerland",1,Saturday 3:00 PM
+"Geneva, Switzerland",4,Saturday 3:00 PM
+"Bern, Switzerland",2,Saturday 3:00 PM
+"Lugano, Switzerland",7,Saturday 3:00 PM
+"Rome, Metropolitan City of Rome, Italy",10,Saturday 3:00 PM
+"Milan, Metropolitan City of Milan, Italy",9,Saturday 3:00 PM
+"Naples, Metropolitan City of Naples, Italy",10,Saturday 3:00 PM
+"Turin, Metropolitan City of Turin, Italy",8,Saturday 3:00 PM
+"Palermo, Province of Palermo, Italy",14,Saturday 3:00 PM
+"Florence, Metropolitan City of Florence, Italy",7,Saturday 3:00 PM
+"Venice, Metropolitan City of Venice, Italy",8,Saturday 3:00 PM
+"Trieste, Province of Trieste, Italy",7,Saturday 3:00 PM
+"Paris, France",5,Saturday 3:00 PM
+"Marseille, France",7,Saturday 3:00 PM
+"Lyon, France",3,Saturday 3:00 PM
+"Toulouse, France",9,Saturday 3:00 PM
+"Bordeaux, France",8,Saturday 3:00 PM
+"Le Havre, France",6,Saturday 3:00 PM
+"Rennes, France",6,Saturday 3:00 PM
+"Amsterdam, Netherlands",4,Saturday 3:00 PM
+"Rotterdam, Netherlands",4,Saturday 3:00 PM
+"Zoetermeer, Netherlands",4,Saturday 3:00 PM
+"Groningen, Netherlands",3,Saturday 3:00 PM
+"Antwerp, Belgium",4,Saturday 3:00 PM
+"Brussels, Belgium",2,Saturday 3:00 PM
+"London, UK",4,Saturday 2:00 PM
+"Edinburgh, UK",2,Saturday 2:00 PM
+"Birmingham, UK",1,Saturday 2:00 PM
+"Manchester, UK",2,Saturday 2:00 PM
+"Glasgow, UK",3,Saturday 2:00 PM
+"Cardiff, UK",4,Saturday 2:00 PM
+"Belfast, UK",2,Saturday 2:00 PM
+"Dublin, County Dublin, Ireland",4,Saturday 2:00 PM
+"Stockholm, Sweden",3,Saturday 3:00 PM
+"Gothenburg, Sweden",5,Saturday 3:00 PM
+"Uppsala, Sweden",3,Saturday 3:00 PM
+"Malmö, Sweden",5,Saturday 3:00 PM
+"Helsinki, Finland",4,Saturday 4:00 PM
+"Oulu, Finland",1,Saturday 4:00 PM
+"Reykjavík, Iceland",-4,Saturday 2:00 PM
+"Oslo, Norway",4,Saturday 3:00 PM
+"Trondheim, Norway",2,Saturday 3:00 PM
+"Madrid, Spain",13,Saturday 3:00 PM
+"Barcelona, Spain",11,Saturday 3:00 PM
+"Seville, Spain",15,Saturday 3:00 PM
+"Lisbon, Portugal",18,Saturday 2:00 PM
+"Porto, Portugal",15,Saturday 2:00 PM
+"Funchal, Portugal",19,Saturday 2:00 PM
+"Athens, Greece",17,Saturday 4:00 PM
+"Thessaloniki, Greece",15,Saturday 4:00 PM
+"Heraklion, Greece",17,Saturday 4:00 PM
+"New York, NY, USA",2,Saturday 9:00 AM
+"Los Angeles, CA, USA",13,Saturday 6:00 AM
+"Chicago, IL, USA",-1,Saturday 8:00 AM
+"Houston, TX, USA",3,Saturday 8:00 AM
+"Phoenix, AZ, USA",3,Saturday 7:00 AM
+"Philadelphia, PA, USA",2,Saturday 9:00 AM
+"San Antonio, TX, USA",6,Saturday 8:00 AM
+"San Diego, CA, USA",12,Saturday 6:00 AM
+"Dallas, TX, USA",3,Saturday 8:00 AM
+"Jacksonville, FL, USA",8,Saturday 9:00 AM
+"San Francisco, CA, USA",8,Saturday 6:00 AM
+"Seattle, WA, USA",1,Saturday 6:00 AM
+"Denver, CO, USA",0,Saturday 7:00 AM
+"El Paso, TX, USA",-1,Saturday 7:00 AM
+"Washington, DC, USA",2,Saturday 9:00 AM
+"Boston, MA, USA",2,Saturday 9:00 AM
+"Nashville, TN, USA",-2,Saturday 8:00 AM
+"Detroit, MI, USA",-3,Saturday 9:00 AM
+"Miami, FL, USA",26,Saturday 9:00 AM
+"Minneapolis, MN, USA",-7,Saturday 8:00 AM
+"Albuquerque, NM, USA",-5,Saturday 7:00 AM
+"Honolulu, HI, USA",21,Saturday 4:00 AM
+"Pittsburgh, PA, USA",-3,Saturday 9:00 AM
+"Las Vegas, NV, USA",6,Saturday 6:00 AM
+"Baltimore, MD, USA",2,Saturday 9:00 AM
+"Atlanta, GA, USA",0,Saturday 9:00 AM
+"Aspen, CO, USA",-9,Saturday 7:00 AM
+"Sioux Falls, SD, USA",-5,Saturday 8:00 AM
+"New Orleans, LA, USA",2,Saturday 8:00 AM
+"Mobile, AL, USA",1,Saturday 8:00 AM
+"Little Rock, AR, USA",-1,Saturday 8:00 AM
+"Richmond, VA, USA",1,Saturday 9:00 AM
+"New Haven, CT, USA",2,Saturday 9:00 AM
+"Portland, OR, USA",2,Saturday 6:00 AM
+"Madison, WI, USA",-4,Saturday 8:00 AM
+"Jackson, MS, USA",-2,Saturday 8:00 AM
+"St. Louis, MO, USA",0,Saturday 8:00 AM
+"Jersey City, NJ, USA",2,Saturday 9:00 AM
+"Oklahoma City, OK, USA",2,Saturday 8:00 AM
+"Omaha, NE, USA",-3,Saturday 8:00 AM
+"Vancouver, BC, Canada",2,Saturday 6:00 AM
+"Montreal, QC, Canada",-1,Saturday 9:00 AM
+"Toronto, ON, Canada",1,Saturday 9:00 AM
+"Banff, AB, Canada",-9,Saturday 7:00 AM
+"Montreal, QC, Canada",-1,Saturday 9:00 AM
+"Calgary, AB, Canada",3,Saturday 7:00 AM
+"Ottawa, ON, Canada",-3,Saturday 9:00 AM
+"Prague, Czechia",1,Saturday 3:00 PM
+"Budapest, Hungary",3,Saturday 3:00 PM
+"Belgrade, Serbia",1,Saturday 3:00 PM
+"Warsaw, Poland",2,Saturday 3:00 PM
+"Tallinn, Harju County, Estonia",2,Saturday 4:00 PM
+"Sydney NSW, Australia",18,Sunday 1:00 AM
+"Canberra ACT, Australia",16,Sunday 1:00 AM
+"Wellington, New Zealand",19,Sunday 3:00 AM
+"Nuuk, Greenland",2,Saturday 11:00 AM
+"Buenos Aires, Argentina",32,Saturday 11:00 AM
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",27,Saturday 12:00 PM
+"Havana, Cuba",26,Saturday 9:00 AM
+"Mexico City, CDMX, Mexico",4,Saturday 8:00 AM
+"Agricultura 4-A, Ecatepec, State of Mexico, Mexico",4,Saturday 8:00 AM
+"Kinshasa, Democratic Republic of the Congo",29,Saturday 3:00 PM
+"Nairobi, Kenya",22,Saturday 5:00 PM
+"Abuja, Nigeria",35,Saturday 3:00 PM
+"Addis Ababa, Ethiopia",18,Saturday 5:00 PM
+"Mogadishu, Somalia",28,Saturday 5:00 PM
+"Dodoma, Tanzania",28,Saturday 5:00 PM
+"Mbabane, Swaziland",23,Saturday 4:00 PM
+"Khartoum, Sudan",33,Saturday 4:00 PM
+"Accra, Ghana",28,Saturday 2:00 PM
+"Harare, Zimbabwe",23,Saturday 4:00 PM
+"Kampala, Uganda",24,Saturday 5:00 PM
+"Yamoussoukro, Côte d'Ivoire",32,Saturday 2:00 PM
+"Algiers, Algeria",14,Saturday 3:00 PM
+"Cairo, Egypt",19,Saturday 4:00 PM
+"Casablanca, Morocco",20,Saturday 2:00 PM
+"Saint Petersburg, Russia",2,Saturday 5:00 PM
+"Novosibirsk, Novosibirsk Oblast, Russia",-13,Saturday 9:00 PM
+"Yekaterinburg, Sverdlovsk Oblast, Russia",-7,Saturday 7:00 PM
+"Krasnoyarsk, Krasnoyarsk Krai, Russia",-14,Saturday 9:00 PM
+"Vladivostok, Primorsky Krai, Russia",-14,Sunday 12:00 AM
+"Verkhoyansk, Sakha Republic, Russia",-46,Sunday 12:00 AM
+"Oymyakon, Sakha Republic, Russia",-48,Sunday 12:00 AM
