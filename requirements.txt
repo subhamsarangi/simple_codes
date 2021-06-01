@@ -8,4 +8,4 @@ praw==5.2.0
 PyInstaller==3.2.1
 PyPDF2==1.26.0
 requests==2.18.1
-urllib3==1.21.1
+urllib3==1.26.5
